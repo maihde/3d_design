@@ -12,3 +12,4 @@ Original
 Remixed
 =======
 * Pi Case Snapmaker - A remix of [this case](https://www.thingiverse.com/thing:922740) to provide mounting holes with 32mm separation for the Snapmaker 2.0 platform.  Available under [Creative Commons - Share Alike](https://creativecommons.org/licenses/by-sa/3.0/).
+* Snapmaker 2.0 Rasp Pi Camera Boom v2.stl - A remix of [this camera mount](https://www.thingiverse.com/thing:3417079)
